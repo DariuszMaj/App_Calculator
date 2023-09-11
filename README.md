@@ -2,9 +2,10 @@
 A simple calculator app built using React Native.
 ## Features
 
-- Basic arithmetic operations: addition, subtraction, multiplication, division, modulo-sum.
+- Basic arithmetic operations: addition, subtraction, multiplication, division.
 - Clear button to reset calculations.
 - -/+ button for changing sign of desired number
+- % button for division by 100
 - User-friendly interface based on IOS Calculator.
 
 ## Screenshots
